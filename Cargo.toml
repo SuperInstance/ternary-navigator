@@ -1,0 +1,8 @@
+[package]
+name = "ternary-navigator"
+version = "0.1.0"
+edition = "2021"
+description = "Wayfinding and pathfinding across rooms using ternary-weighted graph traversal"
+license = "MIT"
+
+[dependencies]
