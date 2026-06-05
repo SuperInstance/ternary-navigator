@@ -79,3 +79,11 @@ Part of the SuperInstance ternary fleet ecosystem. Works alongside `ternary-chan
 ## License
 
 MIT
+
+## See Also
+- **ternary-compass** — related
+- **ternary-voyage** — related
+- **ternary-beacon** — related
+- **ternary-observatory** — related
+- **ternary-harbor** — related
+
